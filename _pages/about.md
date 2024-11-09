@@ -27,4 +27,7 @@ My research interest includes theoretical computer science, pesudorandomness, gr
 
 # 🔥 News
 
+# 🎖 Honors and Awards
+- *2024.12*  
+
 # 📝 Publications 
