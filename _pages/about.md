@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Mingyu Chen (陈明宇), an undergraduate of EECS, Peking University. My advisor is [Kuan Cheng (程宽)](https://www.kuancheng88.com/).
+I am Mingyu Chen (陈明宇), an undergraduate of EECS, Peking University. I major in information and computing science. My advisor is [Kuan Cheng (程宽)](https://www.kuancheng88.com/).
 
-My research interest includes theoretical computer science, pesudorandomness, graph theory, etc.
+My research interest includes theoretical computer science, pesudorandomness theory, etc.
 
 # 📖 Educations
 - *2022.09 - 2026.06 (plan)*, Undergraduate, Peking University. 
