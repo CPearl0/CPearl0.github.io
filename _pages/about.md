@@ -28,6 +28,6 @@ My research interest includes theoretical computer science, pesudorandomness the
 # 🔥 News
 
 # 🎖 Honors and Awards
-- *2024.12*  
+- *2024.12*  第十六届全国大学生数学竞赛 北京赛区 数学A类 一等奖  
 
 # 📝 Publications 
