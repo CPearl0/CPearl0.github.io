@@ -30,4 +30,7 @@ My research interest includes theoretical computer science, pesudorandomness the
 # 🎖 Honors and Awards
 - *2024.12*  第十六届全国大学生数学竞赛 北京赛区 数学A类 一等奖  
 
-# 📝 Publications 
+# 📝 Publications
+
+# 💻 Minecraft Development
+I develop mods and modpacks of Minecraft. See [MC Development](https://cpearl0.github.io/cpearl0.mc.github.io/).  
