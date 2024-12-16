@@ -23,7 +23,7 @@ My research interest includes pesudorandomness theory, complexity theory, combin
 
 # 📖 Educations
 - *2022.09 - 2026.06 (plan)*, Undergraduate, Peking University. 
-- *2012.09 - 2022.06*, Zhangjiakou No.1 Senior High School. 
+- *2016.09 - 2022.06*, Zhangjiakou No.1 Senior High School. 
 
 # 🔥 News
 
