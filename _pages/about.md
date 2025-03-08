@@ -22,8 +22,8 @@ I am Mingyu Chen (陈明宇), a third year undergraduate from [school of EECS](h
 My research interest includes pesudorandomness theory, complexity theory, combinatorics, etc.
 
 # 📖 Educations
-- *2022.09 - 2026.06 (plan)*, Undergraduate, Peking University. 
-- *2016.09 - 2022.06*, Zhangjiakou No.1 Senior High School. 
+- *2022.09 - 2026.06 (plan)*, Undergraduate, Peking University.
+- *2016.09 - 2022.06*, Zhangjiakou No.1 Senior High School.
 
 # 🔥 News
 
@@ -31,6 +31,7 @@ My research interest includes pesudorandomness theory, complexity theory, combin
 - *2024.12*  第十六届全国大学生数学竞赛 北京赛区 数学A类 一等奖  
 
 # 📝 Publications
+My first paper is in progress!  
 
 # 💻 Minecraft Development
 I develop mods and modpacks of Minecraft. See [MC Development](https://cpearl0.github.io/cpearl0.mc.github.io/) for details.  
