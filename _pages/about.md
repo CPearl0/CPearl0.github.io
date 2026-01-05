@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Mingyu Chen (陈明宇), a third year undergraduate from [school of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I major in information and computing science. My advisor is [Kuan Cheng (程宽)](https://www.kuancheng88.com/).
+I am Mingyu Chen (陈明宇), a forth year undergraduate from [school of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I major in information and computing science.
+I will be joining [Institute of Computing Technology](https://www.ict.ac.cn/), Chinese Academy of Sciences (ICT-CAS) as a master student in the fall of 2026.
 
-My research interest includes pesudorandomness theory, complexity theory, combinatorics, etc.
+I have broad research interests in both Computer Architecture and Deep Learning.
 
 # 📖 Educations
-- *2022.09 - 2026.06 (plan)*, Undergraduate, Peking University.
-- *2016.09 - 2022.06*, Zhangjiakou No.1 Senior High School.
+- *2022.09 - 2026.06 (plan)*, Undergraduate, Peking University
 
 # 🔥 News
 
@@ -31,7 +31,6 @@ My research interest includes pesudorandomness theory, complexity theory, combin
 - *2024.12*  第十六届全国大学生数学竞赛 北京赛区 数学A类 一等奖  
 
 # 📝 Publications
-My first paper is in progress!  
 
 # 💻 Minecraft Development
 I develop mods and modpacks of Minecraft. See [MC Development](https://cpearl0.github.io/cpearl0.mc.github.io/) for details.  
